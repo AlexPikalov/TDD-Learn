@@ -1,0 +1,18 @@
+{
+  "name": "TDD-Learn",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "karma-mocha": "~0.1.10",
+    "karma-chai": "~0.1.0",
+    "chai": "~1.10.0",
+    "mocha": "~2.1.0",
+    "grunt-cli": "~0.1.13",
+    "karma": "~0.12.31",
+    "grunt": "~0.4.5",
+    "karma-chrome-launcher": "~0.1.7",
+    "grunt-karma": "~0.10.1",
+    "load-grunt-tasks": "~2.0.0",
+    "grunt-shell": "~1.1.1"
+  }
+}
